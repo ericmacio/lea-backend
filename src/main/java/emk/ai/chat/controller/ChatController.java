@@ -30,6 +30,11 @@ public class ChatController {
         this.chatSessionService = chatSessionService;
     }
 
+    @GetMapping("/hello")
+    public ResponseEntity<String> getHello(HttpServletRequest httpRequest) {
+        return ResponseEntity.ok("Hello welcome to the chat API");
+    }
+
     @PostMapping("/session/start")
     public ResponseEntity<SessionResponse> startSession(HttpServletRequest httpRequest,
                                                         @RequestBody(required = false) SessionStartRequest body) {
