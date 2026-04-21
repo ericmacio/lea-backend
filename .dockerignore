@@ -1,0 +1,15 @@
+target/
+.idea/
+.vscode/
+.mvn/wrapper/maven-wrapper.jar
+*.iml
+.git/
+.gitignore
+.gitattributes
+docs/
+HELP.md
+CLAUDE.md
+TOKEN-DESIGN.md
+.claude/
+Dockerfile
+.dockerignore

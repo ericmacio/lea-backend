@@ -1,0 +1,62 @@
+Setup Railway - Spring Boot + MySQL
+
+1. Architecture
+
+-   Service 1: API Spring Boot (Docker)
+-   Service 2: MySQL Railway
+-   GitHub: déploiement automatique
+
+------------------------------------------------------------------------
+
+2. Dockerfile recommandé
+
+    FROM eclipse-temurin:17-jdk-alpine
+    VOLUME /tmp
+    COPY target/*.jar app.jar
+    ENTRYPOINT ["java","-Xmx400m","-jar","/app.jar"]
+
+------------------------------------------------------------------------
+
+3. Configuration Spring (application.yml)
+
+    spring:
+      datasource:
+        url: ${MYSQL_URL}
+        username: ${MYSQLUSER}
+        password: ${MYSQLPASSWORD}
+      jpa:
+        hibernate:
+          ddl-auto: update
+
+------------------------------------------------------------------------
+
+4. Étapes Railway
+
+1.  Créer un projet Railway
+2.  Connecter GitHub
+3.  Ajouter service MySQL
+4.  Ajouter service backend (repo Spring Boot)
+5.  Lier variables d’environnement
+6.  Déployer
+
+------------------------------------------------------------------------
+
+5. Bonnes pratiques
+
+-   RAM: minimum 512MB (1GB recommandé)
+-   JVM: limiter mémoire avec -Xmx400m
+-   Logs: surveiller usage Railway
+
+------------------------------------------------------------------------
+
+6. Coût estimé
+
+-   ~5$/mois pour petit trafic
+-   API + DB incluses dans crédit
+
+------------------------------------------------------------------------
+
+7. Option bonus
+
+-   Ajouter Redis pour caching
+-   Monitorer avec logs Railway
