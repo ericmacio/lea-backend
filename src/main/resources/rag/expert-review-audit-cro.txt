@@ -1,0 +1,78 @@
+TITRE: L'expert review : la première étape d'un audit CRO efficace
+CATEGORIE: PROCESS
+DATE: 7 avril 2026
+TEMPS_LECTURE: 4 min
+DESCRIPTION: L'expert review est une analyse structurée de votre site selon 5 critères clés : clarté, pertinence, friction, focus et motivation. Découvrez comment elle fonctionne.
+IMAGE:
+
+---
+
+Avant de plonger dans les données analytics ou de lancer des tests A/B, tout audit CRO commence par une étape fondamentale : **l'expert review**.
+
+Il s'agit d'une analyse manuelle et structurée de votre site, réalisée par un spécialiste CRO, qui passe chaque page clé au crible de **5 critères**. L'objectif : identifier rapidement les problèmes les plus évidents qui freinent vos conversions.
+
+## Les 5 critères d'une expert review
+
+### 1. Clarté
+
+Le visiteur comprend-il immédiatement ce que vous proposez ? La clarté est le critère le plus impactant. Si votre message n'est pas compris en quelques secondes, tout le reste est inutile.
+
+L'expert review vérifie notamment :
+
+- Le titre principal communique-t-il clairement votre proposition de valeur ?
+- Les visuels soutiennent-ils le message ou créent-ils de la confusion ?
+- La hiérarchie de l'information guide-t-elle le regard dans le bon ordre ?
+
+### 2. Pertinence
+
+Le contenu de la page correspond-il à ce que le visiteur attendait en arrivant ? Un décalage entre la promesse (publicité, résultat de recherche) et le contenu réel de la page est l'une des premières causes d'abandon.
+
+Questions clés :
+
+- Le message est-il cohérent avec la source de trafic ?
+- Le contenu répond-il aux besoins spécifiques de votre cible ?
+- Le ton et le vocabulaire sont-ils adaptés à votre audience ?
+
+### 3. Friction
+
+Tout élément qui ralentit, complique ou décourage le visiteur dans son parcours est une friction. Les frictions sont souvent invisibles pour celui qui conçoit le site, mais très réelles pour celui qui le découvre.
+
+Exemples courants :
+
+- Formulaires trop longs ou demandant des informations inutiles
+- Navigation confuse ou trop d'options à chaque étape
+- Temps de chargement élevé
+- Informations manquantes au moment de la décision (prix, délais, garantie)
+
+### 4. Focus
+
+La page guide-t-elle le visiteur vers **une seule action claire** ? Quand une page essaie de tout faire — informer, vendre, inscrire à une newsletter, rediriger vers les réseaux sociaux — elle ne fait rien bien.
+
+L'expert review évalue :
+
+- Y a-t-il un appel à l'action principal clairement identifiable ?
+- Les éléments secondaires ne détournent-ils pas l'attention ?
+- Le parcours vers la conversion est-il linéaire et logique ?
+
+### 5. Motivation et psychologie
+
+Le visiteur a-t-il suffisamment de raisons de passer à l'action *maintenant* ? Ce critère évalue les leviers de persuasion présents sur la page.
+
+Éléments analysés :
+
+- **Preuve sociale** : avis clients, témoignages, logos de partenaires
+- **Réassurance** : garanties, politique de retour, sécurité de paiement
+- **Urgence et rareté** : stock limité, offre temporaire (quand c'est justifié)
+- **Bénéfices concrets** : le visiteur comprend-il ce qu'il gagne en agissant ?
+
+## Pourquoi commencer par une expert review ?
+
+L'expert review présente plusieurs avantages :
+
+- **Rapide** : elle peut être réalisée en quelques heures, là où une analyse de données complète prend plusieurs jours
+- **Actionnable** : elle produit des recommandations concrètes et priorisées
+- **Complémentaire** : elle oriente l'analyse de données qui suit — on sait quoi chercher dans GA4 ou dans les enregistrements de sessions
+
+Elle ne remplace pas les données, mais elle permet de ne pas partir de zéro. C'est le diagnostic initial qui donne la direction.
+
+L'expert review fait partie intégrante de [mon offre d'audit CRO](../index.html#offres). Si vous souhaitez savoir ce qui freine vos conversions, [demandez un diagnostic gratuit](../index.html#contact).

@@ -1,0 +1,133 @@
+Lea Macioszczyk - Freelance CRO
+
+=== HERO ===
+
+CRO - E-commerce & site vitrine
+
+Votre site a du trafic mais pas assez de resultats ?
+
+J'aide les e-commerces et les sites vitrines a transformer leur trafic en resultats mesurables (ventes ou prises de contact) grace a une approche CRO (Conversion Rate Optimization) simple, concrete et orientee resultats.
+
+Livre par email, sans appel obligatoire.
+
+=== LE PROBLEME ===
+
+La plupart des sites web perdent des conversions sans le savoir.
+
+En moyenne, 97% des visiteurs d'un site repartent sans convertir : ni achat, ni demande de devis, ni prise de contact (source : Baymard Institute). Le probleme n'est presque jamais le produit/service ni le prix.
+
+Ce sont des frictions invisibles : une page qui manque de reassurance, un parcours utilisateur trop complexe, un decalage entre l'offre et le message, etc.
+
+Le probleme, c'est qu'on ne les voit pas a l'oeil nu. Ils se detectent dans les donnees.
+
+- Une page qui manque de reassurance : Les bons elements sont parfois la... mais pas au bon endroit, ni au bon moment.
+- Un parcours utilisateur trop complexe : Chaque etape inutile augmente le risque de perdre un visiteur qualifie. L'abandon se joue souvent a quelques clics.
+- Un decalage entre l'offre et le message : Votre produit/service a de la valeur, mais votre discours ne reflete pas ce que vos visiteurs cherchent vraiment. Sans connexion immediate, ils quittent la page.
+
+=== A PROPOS ===
+
+Consultante CRO : optimisation de la conversion & performance digitale
+
+Basee a Grenoble et intervenant dans toute la France, je suis specialisee en optimisation de la conversion (CRO). J'aide les entreprises a mieux exploiter leur trafic existant en ameliorant l'experience utilisateur et la performance de leurs sites web (e-commerce ou site vitrine).
+
+Issue du marketing digital, j'ai construit une approche basee sur la donnee et l'observation des usages : analyse des performances, detection des frictions dans les parcours utilisateurs, optimisation continue des pages strategiques et des mecanismes d'engagement.
+
+Je travaille dans une logique d'amelioration continue : tester, mesurer, comprendre, optimiser.
+
+=== METHODE ===
+
+Optimisation du taux de conversion : analyse, hypotheses, tests, resultats.
+
+Duo CRO + Developpeur senior
+
+J'analyse vos donnees et les croise avec une analyse UX (experience utilisateur) pour identifier precisement ce qui freine vos visiteurs.
+
+Pour les optimisations necessitant du developpement technique, je collabore avec un developpeur senior ayant plus de 20 ans d'experience en architecture logicielle, developpement web et forme aux dernieres avancees de l'IA appliquee au code.
+
+Etape 1 - Analyse des donnees
+Exploration de Google Analytics 4, heatmaps et session replays pour cartographier le comportement reel de vos visiteurs et localiser les points de fuite.
+
+Etape 2 - Formulation d'hypotheses
+Chaque friction identifiee devient une hypothese d'amelioration concrete, priorisee selon la methode PXL pour maximiser l'impact.
+
+Etape 3 - Tests A/B & mesure
+Mise en place et suivi des tests via GoStellar, avec analyse statistique rigoureuse. Aucun changement n'est declare gagnant sans validation chiffree.
+
+Etape 4 - Apprentissage & implementation
+Les observations de chaque test alimentent le suivant. Ce qui fonctionne est deploye. Ce qui echoue nous apprend sur vos utilisateurs.
+
+=== OFFRES ===
+
+Nos offres d'optimisation CRO selon votre situation.
+
+Trois formules pensees pour s'adapter a votre contexte, que vous ayez besoin d'un livrable operationnel ou d'un partenaire sur la duree.
+
+--- Offre 1 : ONE-SHOT ---
+Audit operationnel
+Duree : 2 semaines
+Prix : 499 euros
+Vous voulez comprendre pourquoi votre site ne convertit pas ? En deux semaines, je vous livre une analyse complete : frictions identifiees, recommandations priorisees et hypotheses pretes a tester.
+Pour qui : vous avez une equipe dev en interne et/ou avez besoin d'un livrable directement operationnel, pas d'une liste de bonnes pratiques.
+Inclut :
+- Analyse GA4, heatmaps, session replays
+- Recommandations UX et copywriting
+- Hypotheses de tests actionnables
+
+--- Offre 2 : ACCOMPAGNEMENT ---
+Accompagnement CRO
+Duree : Minimum 3 mois
+Prix : 799 euros par mois
+Vous manquez de temps ou d'expertise pour structurer une vraie demarche d'optimisation continue ? Je construis et pilote votre strategie CRO pour transformer vos donnees en decisions.
+Pour qui : vous avez une equipe dev en interne capable d'implementer les changements, mais vous avez besoin d'une expertise CRO complete.
+Inclut :
+- Audit operationnel inclus
+- Realisation de tests A/B no-code
+- Variations a implementer illustrees
+- 1 point mensuel + rapport de resultats
+
+--- Offre 3 : OFFRE COMPLEMENTAIRE ---
+Execution technique
+Duo CRO + Dev senior
+Prix : sur devis
+Vous souhaitez realiser des tests techniques et structurels (necessitant du code) et/ou deployer les optimisations validees ? Je collabore avec un developpeur senior pour assurer leur mise en oeuvre.
+Pour qui : vous n'avez pas d'equipe dev en interne et/ou souhaitez deleguer entierement votre optimisation, de la strategie a l'implementation.
+Inclut :
+- Tests techniques & structurels
+- Implementation des tests gagnants
+
+=== BANNIERE CTA ===
+
+Vous ne savez pas par ou commencer ?
+Je jette un oeil a votre site gratuitement.
+
+=== CONTACT ===
+
+Si vous pensez que votre site peut generer plus de resultats. Parlons-en.
+
+- Reponse sous 48h. C'est moi (Lea) qui vous reponds, sans intermediaire.
+- Honnetete avant tout. Si le CRO n'est pas la bonne solution pour vous maintenant, je vous le dis.
+- Diagnostic offert. Si vous partagez votre URL, je jette un oeil a votre site gratuitement.
+
+=== FAQ ===
+
+Questions frequentes sur le CRO et l'optimisation de conversion
+
+Q : Concretement, c'est quoi le CRO ?
+R : Le CRO (Conversion Rate Optimization) consiste a ameliorer le pourcentage de visiteurs qui realisent une action cle sur votre site : un achat, une demande de devis, une prise de contact, une inscription. Plutot que de depenser plus en publicite pour attirer du trafic, le CRO maximise la valeur du trafic que vous avez deja en identifiant ce qui freine vos visiteurs et en optimisant leur experience. C'est l'un des leviers les plus rentables du marketing digital.
+
+Q : Est-ce que le CRO fonctionne pour les petits sites avec peu de trafic ?
+R : Oui, mais l'approche differe. Avec un trafic modeste, les tests A/B classiques prennent plus de temps a produire des resultats statistiquement fiables. Dans ce cas, je me concentre sur l'audit et l'analyse qualitative (heatmaps, replays, tests utilisateurs) pour identifier les frictions les plus evidentes.
+
+Q : Combien de temps avant de voir des resultats concrets ?
+R : L'audit livre en 2 semaines vous donne des actions immediates. Pour l'accompagnement continu, les premiers resultats mesurables arrivent generalement entre 4 et 8 semaines apres la mise en place des premiers tests. C'est pourquoi l'engagement minimum est de 3 mois : il faut le temps de tester, mesurer, optimiser et confirmer les gains.
+
+Q : Quelle difference entre le CRO, le SEO et le redesign ?
+R : Le SEO vous amene du trafic. Le redesign change l'apparence de votre site. Le CRO optimise ce qui se passe entre l'arrivee du visiteur et la conversion (achat, demande de devis, prise de contact). Ce sont des leviers complementaires, mais si vous avez deja du trafic et que vos resultats ne suivent pas, le CRO est le levier le plus rentable a court terme car il agit sur le chiffre d'affaires sans augmenter vos depenses publicitaires.
+
+Q : Que se passe-t-il si l'audit ne revele rien de significatif ?
+R : C'est extremement rare, il y a toujours des frictions a corriger. Mais si votre site est deja tres bien optimise, je vous le dis honnetement et je vous oriente vers d'autres leviers plus pertinents (acquisition, SEO, offre produit). Mon objectif n'est pas de vendre une prestation, mais de vous apporter de la valeur.
+
+=== FOOTER ===
+
+Lea Macioszczyk - Freelance CRO - Grenoble
+2026 - Tous droits reserves

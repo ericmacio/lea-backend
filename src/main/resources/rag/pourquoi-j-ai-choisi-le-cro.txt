@@ -1,0 +1,65 @@
+TITRE: Pourquoi j'ai choisi le CRO : mon parcours de la communication à l'optimisation de conversion
+CATEGORIE: MON PARCOURS
+DATE: 30 mars 2026
+TEMPS_LECTURE: 5 min
+DESCRIPTION: Découvrez le parcours de Léa Macioszczyk, de la communication digitale au CRO. Pourquoi l'optimisation du taux de conversion est devenue une évidence professionnelle.
+IMAGE:
+
+---
+
+Quand on me demande pourquoi je me suis spécialisée en CRO (optimisation du taux de conversion), la réponse tient en une phrase : **c'est la discipline qui réunit tout ce que j'aime faire et tout ce que je sais faire.** Analyser des données, comprendre le comportement des utilisateurs, concevoir des parcours fluides et mesurer l'impact de chaque changement — le CRO est au croisement de la stratégie, du design et de la data.
+
+Mais ce choix ne s'est pas fait du jour au lendemain. Il est le fruit d'un parcours de plusieurs années dans le marketing digital et la communication, ponctué d'expériences très différentes qui ont toutes convergé vers une même conviction.
+
+## Un socle solide en communication et stratégie
+
+Mon parcours commence par un DUT Information et Communication à l'IUT de Grenoble, suivi d'un Bachelor en Communication à SUP'DE COM, puis d'un Master en Création et Stratégies Publicitaires à l'EFAP Lyon.
+
+Ces formations m'ont donné les fondamentaux qui sont, selon moi, indispensables pour faire du CRO de qualité :
+
+- **Comprendre les mécanismes de persuasion** : savoir ce qui pousse une personne à agir, à cliquer, à acheter
+- **Structurer un message** : hiérarchiser l'information pour guider l'attention
+- **Penser "utilisateur"** : concevoir des contenus et des parcours du point de vue de celui qui les reçoit
+- **Analyser un marché** : comprendre le contexte, la concurrence et les attentes du public cible
+
+> La communication, c'est l'art de faire passer le bon message, à la bonne personne, au bon moment. Le CRO, c'est exactement la même chose — mais appliqué à un site web, avec des données pour le prouver.
+
+## L'entrepreneuriat : le déclic
+
+Entre 2021 et 2023, j'ai co-fondé Khairo / Studio Octopolis, un projet entrepreneurial dans lequel j'ai touché à tout : création du site web, référencement naturel, campagnes publicitaires (SEA et social ads), stratégie marketing, création de contenus pour Instagram et TikTok, et gestion de la relation client.
+
+C'est cette expérience qui a tout changé. En gérant un site de A à Z, j'ai réalisé une chose essentielle : **attirer du trafic ne suffit pas**. Ce qui compte, c'est ce que les visiteurs font une fois qu'ils sont là.
+
+J'ai passé des heures à analyser les parcours utilisateurs, à tester des variantes de pages, à observer ce qui fonctionnait et ce qui ne fonctionnait pas. Sans le savoir, je faisais déjà du CRO.
+
+## De la communication à l'optimisation : une transition naturelle
+
+Après cette expérience entrepreneuriale, j'ai rejoint la CPTS de Grenoble en tant que chargée de communication et de projets. J'y ai piloté la refonte du site web avec une approche orientée expérience utilisateur, mis en place des newsletters segmentées optimisées pour l'engagement, et suivi des indicateurs de performance (adhésion, engagement, fidélisation).
+
+Chaque mission confirmait la même chose : **l'impact le plus mesurable vient de l'optimisation de ce qui existe déjà**, pas de la multiplication des canaux d'acquisition.
+
+C'est ce constat qui m'a poussée à me spécialiser. En 2025, j'ai obtenu le Certificat professionnel Google en Marketing digital et e-commerce pour compléter mes compétences avec une maîtrise approfondie des outils analytics (Google Analytics 4, Google Ads, Search Console) et des méthodologies d'optimisation.
+
+## Pourquoi le CRO est une évidence
+
+Le CRO se situe à l'intersection exacte de mes compétences et de mes centres d'intérêt :
+
+- **Stratégie et créativité** (formation en communication et publicité) — pour formuler des hypothèses et imaginer des solutions
+- **Analyse de données** (maîtrise de GA4, heatmaps, session replays) — pour comprendre le comportement réel des visiteurs
+- **Web design et UX** (création de sites, refonte, optimisation de parcours) — pour concevoir des expériences fluides et efficaces
+- **Marketing digital** (SEO, SEA, emailing, réseaux sociaux) — pour comprendre le contexte global dans lequel s'inscrit la conversion
+- **Rigueur méthodologique** (tests A/B, méthode PXL) — pour valider chaque changement avec des données, pas des opinions
+
+Ce qui me passionne dans le CRO, c'est qu'il est **concret et mesurable**. Contrairement à d'autres disciplines du marketing où l'impact est diffus, en CRO, on sait exactement ce qui a fonctionné, pourquoi, et combien cela a rapporté.
+
+## Ma vision du CRO
+
+Je suis convaincue que le CRO est le levier le plus sous-estimé du marketing digital, en particulier pour les PME, TPE et startups.
+
+Beaucoup d'entreprises investissent des milliers d'euros en publicité pour attirer du trafic, mais ne se posent jamais la question de ce qui se passe une fois le visiteur arrivé sur leur site. Résultat : **97 % des visiteurs repartent sans convertir**, et le budget publicitaire est en grande partie gaspillé.
+
+Mon approche est simple : avant de dépenser plus pour attirer de nouveaux visiteurs, optimisons d'abord la valeur de ceux qui sont déjà là. C'est plus rentable, plus rapide, et les résultats sont durables.
+
+Si cette approche vous parle, [découvrez mes offres d'audit et d'accompagnement CRO](../index.html#offres) ou demandez directement votre [diagnostic gratuit](../index.html#contact).
+
+Et si vous souhaitez mieux comprendre ce qu'est le CRO, je vous invite à lire mon article [Qu'est-ce que le CRO ?](qu-est-ce-que-le-cro.html) qui explique la démarche en détail.
